@@ -60,7 +60,7 @@
   color: #111;
 }
 
-.boton {
+.boton_recipes {
   display: inline-block;
   text-decoration: none;
   color: #b88a70;
@@ -70,7 +70,7 @@
   font-size: 14px;
 }
 
-.boton:hover {
+.boton_recipes {
   background-color: #c99e85;
   color: white;
 }
